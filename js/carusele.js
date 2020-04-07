@@ -13,7 +13,7 @@ $(document).ready(function() {
   },
 
 		  breakpoints: {
-        640: {
+        750: {
           slidesPerView: 3,
           spaceBetween: 10,
         },
